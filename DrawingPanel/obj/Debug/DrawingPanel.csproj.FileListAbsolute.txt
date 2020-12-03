@@ -1,0 +1,15 @@
+C:\Users\Ethan\source\repos\u1178487\TankWars\DrawingPanel\bin\Debug\DrawingPanel.dll
+C:\Users\Ethan\source\repos\u1178487\TankWars\DrawingPanel\bin\Debug\DrawingPanel.pdb
+C:\Users\Ethan\source\repos\u1178487\TankWars\DrawingPanel\bin\Debug\Vector2D.dll
+C:\Users\Ethan\source\repos\u1178487\TankWars\DrawingPanel\bin\Debug\World.dll
+C:\Users\Ethan\source\repos\u1178487\TankWars\DrawingPanel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ethan\source\repos\u1178487\TankWars\DrawingPanel\bin\Debug\NetworkController.dll
+C:\Users\Ethan\source\repos\u1178487\TankWars\DrawingPanel\bin\Debug\Vector2D.pdb
+C:\Users\Ethan\source\repos\u1178487\TankWars\DrawingPanel\bin\Debug\World.pdb
+C:\Users\Ethan\source\repos\u1178487\TankWars\DrawingPanel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ethan\source\repos\u1178487\TankWars\DrawingPanel\bin\Debug\NetworkController.xml
+C:\Users\Ethan\source\repos\u1178487\TankWars\DrawingPanel\obj\Debug\DrawingPanel.csprojAssemblyReference.cache
+C:\Users\Ethan\source\repos\u1178487\TankWars\DrawingPanel\obj\Debug\DrawingPanel.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\source\repos\u1178487\TankWars\DrawingPanel\obj\Debug\DrawingPanel.csproj.CopyComplete
+C:\Users\Ethan\source\repos\u1178487\TankWars\DrawingPanel\obj\Debug\DrawingPanel.dll
+C:\Users\Ethan\source\repos\u1178487\TankWars\DrawingPanel\obj\Debug\DrawingPanel.pdb

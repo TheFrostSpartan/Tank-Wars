@@ -1,0 +1,6 @@
+C:\Users\Ethan\source\repos\u1178487\TankWars\DatabaseView\bin\Debug\DatabaseView.dll
+C:\Users\Ethan\source\repos\u1178487\TankWars\DatabaseView\bin\Debug\DatabaseView.pdb
+C:\Users\Ethan\source\repos\u1178487\TankWars\DatabaseView\obj\Debug\DatabaseView.csprojAssemblyReference.cache
+C:\Users\Ethan\source\repos\u1178487\TankWars\DatabaseView\obj\Debug\DatabaseView.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\source\repos\u1178487\TankWars\DatabaseView\obj\Debug\DatabaseView.dll
+C:\Users\Ethan\source\repos\u1178487\TankWars\DatabaseView\obj\Debug\DatabaseView.pdb
